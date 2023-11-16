@@ -15,7 +15,7 @@
 
 ## Capturas de Pantalla
 <p align="center">
-  <img src="https://github.com/Eliel-DG/DMI_PRACTICA17_200327/blob/main/README.md?plain=1" width="200" alt="Captura de Pantalla 1">
+  <img src="https://github.com/Eliel-DG/DMI_PRACTICA17_200327/blob/main/a1.png" width="200" alt="Captura de Pantalla 1">
   <img src="https://github.com/Eliel-DG/DMI_PRACTICA17_200327/blob/main/a2.png" width="200" alt="Captura de Pantalla 2">
   <img src="https://github.com/Eliel-DG/DMI_PRACTICA17_200327/blob/main/a3.png" width="200" alt="Captura de Pantalla 3">
   <img src="https://github.com/Eliel-DG/DMI_PRACTICA17_200327/blob/main/a4.png" width="200" alt="Captura de Pantalla 4">
